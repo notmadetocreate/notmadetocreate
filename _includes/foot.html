@@ -1,0 +1,43 @@
+<footer id="footer">
+  <section>
+    <h2 class="unselectable">Get in touch with me!</h2>
+    <form method="POST" action="https://formspree.io/{{site.email}}">
+      <div class="field">
+        <label for="name" class="unselectable">Name</label>
+        <input type="text" name="name" id="name" />
+      </div>
+      <div class="field">
+        <label for="email" class="unselectable">Email</label>
+        <input type="text" name="email" id="email" />
+      </div>
+      <div class="field">
+        <label for="message" class="unselectable">Message</label>
+        <textarea name="message" id="message" rows="3"></textarea>
+      </div>
+      <ul class="actions">
+        <li><input type="submit" value="Send Message" /></li>
+      </ul>
+    </form>
+  </section>
+  <section class="split contact">
+    <section>
+      <h2 class="unselectable"><a href="{{ "/about/" | absolute_url }}">About me</a></h2>
+    </section>
+    <section class="alt unselectable">
+      <h3>Location</h3>
+      <p>{{site.location}}</p>
+    </section>
+    <section class="unselectable">
+      <h3>Email</h3>
+      <p><a href="mailto:{{site.email}}">{{site.email}}</a></p>
+    </section>
+    <section class="unselectable">
+      <h3>Social</h3>
+      {% include socialnav.html %}
+    </section>
+  </section>
+</footer>
+<!-- Copyright -->
+<div id="copyright" class="unselectable">
+  <ul><li>&copy; Dorian Geerdink</li><li>Design by <a href="https://dfgeerdink.github.io">Daan Geerdink</a></li></ul>
+</div>

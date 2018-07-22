@@ -1,0 +1,79 @@
+# Site
+title:              Not Made To Create
+bio:                'BIO'
+description:        "Gallery exhibiting the art of Dorian Geerdink."
+locale:             en_US
+baseurl: "" # the subpath of your site, e.g. /gallery
+url: "https://notmadetocreate.github.io" # the base hostname & protocol for your site
+
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    permalink: "/gallery/:title/"
+    layout: post
+    author: 'Dax Fox'
+
+# Jekyll
+permalink:          /gallery/:title/
+markdown:           kramdown
+encoding:           utf-8
+highlighter:        rouge
+kramdown:
+  auto_ids:         true
+  footnote_nr:      1
+  entity_output:    as_char
+  toc_levels:       1..6
+  enable_coderay:   false
+mathjax:            true
+sass:
+  sass_dir:         _sass
+  style:            compressed
+
+# Comments
+disqus_shortname:   default
+
+# Social
+analytics-id:       "default"
+twitter:            'DaxFox1'
+facebook:           default
+instagram:          'dax_fox_'
+github:             default
+
+# personal
+location:           Netherlands
+phone:              
+email:              dorianfox@outlook.com
+
+##############################
+# Dynamic Text on the Header #
+##############################
+
+dynamic-typing: True
+shuffle: False # Shuffle the lines.
+loop: True
+loop-count: False # Set False for infinite loop, or set any number for finite loop.
+type-speed: 10
+start-delay: 200
+delete-delay: 4000
+lines: # You can add HTML Tags in the Text
+  - text: "Gallery exhibiting the art of Dorian Geerdink."
+  - text: "Where’s your will to be weird?"
+
+# Gems
+gems:
+  - jekyll-mentions
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+
+paginate: 6
+paginate_path: "/gallery/page:num/"
+
+jekyll-mentions:
+    base_url: https://notmadetocreate.github.io
+
+# Exclude list
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]

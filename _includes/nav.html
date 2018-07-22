@@ -1,0 +1,10 @@
+<ul class="links unselectable">
+  <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">Home</a></li>
+  <li class="{% if page.url contains '/about/' %} active {% endif %}"><a href="{{ "/about/" | absolute_url }}">About</a></li>
+  <li class="{% if page.url contains '/gallery/' %} active {% endif %}"><a href="{{ "/gallery/" | absolute_url }}">Gallery</a></li>
+  <li class="{% if page.url contains '/prices/' %} active {% endif %}"><a href="{{ "/prices/" | absolute_url }}">Prices</a></li>
+  <li class="{% if page.url contains '/faq/' %} active {% endif %}"><a href="{{ "/faq/" | absolute_url }}">FAQ</a></li>
+  <li class="{% if page.url contains '/tos/' %} active {% endif %}"><a href="{{ "/tos/" | absolute_url }}">TOS</a></li>
+  <li class="{% if page.url contains '/featured/' %} active {% endif %}"><a href="{{ "/featured/" | absolute_url }}">Featured</a></li>
+  <li class="{% if page.url contains '/elements/' %} active {% endif %}"><a href="{{ "/elements/" | absolute_url }}">Elements Reference</a></li>
+</ul>
