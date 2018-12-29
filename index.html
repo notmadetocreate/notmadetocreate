@@ -57,7 +57,7 @@ sitemap:
 						<!-- Posts -->
 							<article class="post featured"><header class="major"><h2><a class="unselectable" href="{{ "/gallery/" | absolute_url }}">My latest artworks</a></h2></header></article>
 							<section class="posts">
-                {% for post in site.posts limit:2 %}
+                {% for post in site.posts limit:4 %}
   								<article>
   									<header>
   										<span class="date unselectable">{{ post.date | date_to_string }}</span>
@@ -66,14 +66,14 @@ sitemap:
   									<a href="{{ post.url | absolute_url }}" class="image fit unselectable"><img src="{{ post.image | absolute_url }}" alt="{{ post.title }}" style="max-width: 446px; max-height: 273px;" /></a>
   									<p class="unselectable">{{ post.excerpt }}</p>
   									<ul class="actions">
-  										<li><a href="{{ post.url | absolute_url }}" class="button unselectable">Full Story</a></li>
+  										<li><a href="{{ post.url | absolute_url }}" class="button unselectable">More info</a></li>
   									</ul>
   								</article>
                 {% endfor %}
 							</section>
 							<footer>
 				                <ul class="actions">
-				                  <li><a href="{{ "/gallery/" | absolute_url }}" class="button unselectable">Check out my entire Gallery!</a></li>
+				                  <li><a href="{{ "/gallery/" | absolute_url }}" class="button unselectable">Feel free to check out my entire Gallery!</a></li>
 				                </ul>
 							</footer>
 
