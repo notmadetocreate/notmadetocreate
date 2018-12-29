@@ -108,3 +108,23 @@ A table with my pricing is presented here. More information can be found below.
 	<dt>Tailpack commission:</dt>
 	<dd>This type of commission consists of three small tail badges. These can be used as keychains. Each tail badge can have it’s own background on the back of it. These badges are made with alcohol based markers. Every badge will be laminated and shipped out. <br><br>Price: €4<br><br></dd>
 </dl>
+
+<hr />
+
+### Digital commissions:
+Coming summer 2019… 
+
+<hr />
+
+### Traditional sticker designs: 
+
+<dl>
+	<dt>Nuke stickers: </dt>
+	<dd>This is the sticker version of my traditional art piece ‘Nuke Fox’ which I made in september 2018. These stickers come in H 14 cm by W 10 cm sized squares. You can cut around the flowers and follow the shapes of the art piece if you don’t want your sticker to be pure square. You can order as many stickers at once as you like. Just be aware that the more your package weighs the more shipping costs will be added.<br><br>Price:  €5 each.<br><br></dd>
+</dl>
+
+<hr />
+
+
+### Digital sticker designs: 
+Coming in spring 2019… 
