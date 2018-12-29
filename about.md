@@ -9,7 +9,7 @@ sitemap:
 ---
 ## About me
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="https://farm8.staticflickr.com/7828/32638918418_3ec66b8a2d.jpg" alt="Dax by @crunchy_mutt"/></span>
 Hey there! Thank you for checking out this about me section. I will list some basic information here as well as some extra facts. 
 
 ### Basic information: 
