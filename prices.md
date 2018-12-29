@@ -69,6 +69,7 @@ Coming in spring 2019…
 
 <hr />
 
+## Pricing
 <div id="pricetable" class="table-wrapper">
 	<table class="alt">
 		<thead>
@@ -125,6 +126,11 @@ Coming in spring 2019…
 			<tr>
 				<td>Tailpack commission</td>
 				<td>€4,-</td>
+			</tr>
+			<tr>
+				<td>Nuke sticker</td>
+				<td>€5,-</td>
+<!----- KAKZOOI
 			</tr>
 		</tbody>
 	</table>
