@@ -34,7 +34,7 @@ My other social medias are:
 <ul>
     <li>DeviantArt: <a href="https://www.deviantart.com/rainbowburrito">Rainbowburrito</a></li>
     <li>Twitter: <a href="https://twitter.com/daxfox1">DaxFox1</a></li>
-    <li>Furryamino: - </li>
+    <li>Furryamino: <a href="https://aminoapps.com/c/furry-amino/page/user/daxfox/ERqa_5k3u4fVwdBY6arl62QPm85rMPJ4ga">DaxFox</a></li>
     <li>Email: <a href="mailto:dorianfox@outlook.com">Dorianfox@outlook.com</a></li>
 </ul>
 
