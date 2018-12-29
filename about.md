@@ -13,7 +13,9 @@ sitemap:
 Hey there! Thank you for checking out this about me section. I will list some basic information here as well as some extra facts. 
 
 ### Basic information: 
- I am an 21 year old guy from the Netherlands who likes to draw and create. 
+I am an 21 year old guy from the Netherlands who likes to draw and create.
+
+<hr />
 
 ### What kind of art do I make?: 
 <ul>
@@ -25,15 +27,14 @@ Hey there! Thank you for checking out this about me section. I will list some ba
 </ul>
 
 ### On which platform am I the most active as if right now?:
-I am the most active on Instagram. My instagram is <a href="https://www.instagram.com/dax_fox_/">@dax_fox_</a>
+I am the most active on Instagram. My instagram is <a href="https://www.instagram.com/dax_fox_/">@dax_fox_</a><br>
 My other social medias are:
 <ul>
-    <li>DeviantArt: Rainbowburrito</li>
-    <li>Twitter: DaxFox1</li>
+    <li>DeviantArt: <a href="https://www.deviantart.com/rainbowburrito">Rainbowburrito</a></li>
+    <li>Twitter: <a href="https://twitter.com/daxfox1">DaxFox1</a></li>
     <li>Furryamino: - </li>
-    <li>Email: Dorianfox@outlook.com</li>
+    <li>Email: <a href="mailto:dorianfox@outlook.com">Dorianfox@outlook.com</a></li>
 </ul>
-
 
 <div class="box">
   <p>
