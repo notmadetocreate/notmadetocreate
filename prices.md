@@ -7,21 +7,41 @@ sitemap:
     lastmod: 2018-07-22
     changefreq: weekly
 ---
-## About our Site
+## Prices
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
+### How to commission:
+<ol>
+	<li>Read the TOS.</li>
+	<li>Pick the type of commission that you would like to get.</li>
+	<li>Contact me through email at Dorianfox@outlook.com. Make sure to put ‘NMTC’ commission in the title.</li>
+	<li>We will discuss the details of the commission through the mail.</li>
+</ol>
 
-Making steady content and conveying it well takes a great deal of research and, hence, time and exertion. Building a profound established comprehension of your target customer needs is critical as your principle objective ought to be to fulfill their requirements as awesome content. You should need to enhance their lives. Having significant content like this may not be simple by any methods. Be that as it may, in any case, it's a fundamental apparatus in the event that you expect to grow a fruitful and supportable business in the present web focused world.
+On this page the following abbreviations are used for size: <b>H = height</b> , <b>W = width</b>.
 
-Receiving the benefits of content is a certain something. Be that as it may, it's so substantially less demanding once you begin conveying all the more successfully. The profitable content thought isn't just about bragging your item's capacities and general worth or your organization's achievements. You should concentrate less on advertising how awesome your item is and rather concentrate on indicating how valuable it is. This is a client focused approach as it concentrates on their issues and your answer for them. Making yourself fundamental is critical.
+### Traditional commissions: 
 
-### Content is Imortant
-<div class="box">
-  <p>
-  In saying that, a one-measure fits-all approach won't do the trick with regards to content promoting. Rather, an emphasis on making remarkable, high caliber and totally genuine content that is engaging, helpful and fascinating for customers will get you the crown. From content, video and symbolism to infographics, studies, online courses and podcasts, whatever your favored content medium is, guarantee it is shareable and pertinent to your industry.
-  </p>
-</div>
-
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
-
-On social media, we may share our own thoughts and advance our image notwithstanding spreading musings for different associations and affiliations. With such a critical number of associations with people and relationship on social media, our experience can be over-burden with a considerable measure of information.
+<dl>
+	<dt>Traditional headshot badge (small): </dt>
+	<dd>This type of commission is a normal sized badge (most often H 14 cm by W 10 cm) mainly showing the head of your fursona/character. These drawings will be made with alcohol based markers. Every badge will have a background of your choice on the back of the badge. I have a couple of backgrounds where you can choose from. Every badge will be laminated and shipped out. Price: €10</dd>
+	<dt>Traditional headshot badge: </dt>
+	<dd>This type of commission is a big sized badge (most often H 24 cm by W 14 cm) mainly showing the head of your fursona/character. These drawings will be made with alcohol based markers. Every badge will have a background of your choice on the back of the badge. I have a couple of backgrounds where you can choose from. Every badge will be laminated and shipped out. Price: €15</dd>
+	<dt>Bowtie badge: </dt>
+	<dd>This type of commission is a normal sized badge (most often H 13 cm by W 11 cm) mainly showing the head of your fursona/character. These drawings will be made with alcohol based markers. Every badge will have a background of your choice on the back of the badge. I have a couple of backgrounds where you can choose from. After the badge is laminated there will be a little fabric bowtie added on the front of the badge. Every badge will be laminated and shipped out. Price: €12</dd>
+	<dt>Royal fluff badge:</dt>
+	<dd>This type of badge is a medium sized badge (most often H 18 cm by W 13 cm) mainly showing the head of your fursona/character. The cheek and neck fur will be exaggerated and be given extra details. There will also be a crown or some other royal feature added to your character. These drawings will be made with alcohol based markers. Every badge will have a background of your choice on the back of the badge. I have a couple of backgrounds where you can choose from. Every badge will be laminated and shipped out. Price: €15</dd>
+	<dt>Lined traditional headshot sketch: </dt>
+	<dd>This type of commission is a lined sketch mainly showing the head of your fursona/character. You may choose weather or not you would like this lined headshot sketch to be laminated or not. Please keep in mind that laminating the lined headshot sketch will add a extra small fee to your commission. These sketches are made with pencils and fineliners. Each lined headshot sketch will be shipped out and laminated if stated so by the client. Price: €5 Price (laminated): €7</dd>
+	<dt>Traditional headshot sketches:</dt>
+	<dd>This type of commission consists of three sketches, all mainly showing the head of your fursona/character. These sketches are made with pencil. They won’t be laminated. They will get shipped out. Price: €4</dd>
+	<dt>Painted headshot commission I: </dt>
+	<dd>This type of commission is a A4 with a painted headshot of your fursona/character on it. These headshots won’t be laminated. They can get a background on the back of the A4 but please be aware that this may add to the shipping costs due to extra stamps because of extra weight. These headshots are made with acrylic paint. Each painted headshot will be shipped out. Price: €15</dd>
+	<dt>Painted headshot commission II: </dt>
+	<dd>This type of commission is a A4 with a painted headshot of your fursona/character on it. These headshots won’t be laminated. They can get a background on the back of the A4 but please be aware that this may add to the shipping costs due to extra stamps because of extra weight. These headshots are made with oil paint. Each painted headshot will be shipped out. Price: €20</dd>
+	<dt>Poster commission: </dt>
+	<dd>This type of commission is a laminated poster(most often 31 x 31 cm) mainly showing the head of your fursona/character. You can choose a background surrounding the headshot of your character. This illustration as a whole will be added onto the … sized card. This card is double sided. Because of that I can’t change what’s on the back of the card and thus what’s on the back of the poster. Depending on the colour scheme and theme of your poster we will choose the most fitting card together. These posters will be made with alcohol based markers. Each poster will be laminated and send out. Please be aware that the shipping costs of these posters will be higher than the normal shipping costs due to: A3 sized envelopes, A3-sized laminating pouches, a higher total weight and thus a higher total of stamps. Price: €20</dd>
+	<dt>Experimental bust-up commission:</dt>
+	<dd>This is a mostly A4 sized commission featuring your character from the head to the underbelly. I am less experienced with making bust-ups. And so these commissions will be experimental ones. These drawings will be made with alcohol based markers. Every bust-up badge will have a background of your choice on the back of it. I have a couple of backgrounds where you can choose from. Every badge will be laminated and shipped out. Price: €12</dd>
+	<dt>Tailpack commission:</dt>
+	<dd>This type of commission consists of three small tail badges. These can be used as keychains. Each tail badge can have it’s own background on the back of it. These badges are made with alcohol based markers. Every badge will be laminated and shipped out. Price: €4</dd>
+</dl>
