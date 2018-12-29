@@ -36,10 +36,35 @@ My other social medias are:
     <li>Email: <a href="mailto:dorianfox@outlook.com">Dorianfox@outlook.com</a></li>
 </ul>
 
+### What tools do you use?:
+<b>Traditional Art:</b>
+<ul>
+	<li>Twinmarkers.</li>
+	<li>Copic markers.</li>
+	<li>Faber castell pencils. </li>
+	<li>Canson marker block.</li>
+	<li>Leitz home office A3 laminator and 125 micron laminating pouches.</li>
+	<li>Huion led light pad.</li>
+	<li>Hybrid gelpens.</li>
+	<li>Hema fineliners.</li>
+	<li>Pigma micron fineliners.</li>
+	<li>Inspired by  Amsterdam Acrylic paint.</li>
+	<li>Van Gogh Oil paint.</li>
+</ul>
+
+<b>Digital art:</b>
+<ul>
+	<li>Wacom Intuos drawing tablet.</li>
+	<li>Adobe illustrator.</li>
+</ul>
+
+### Are you a furry?:
 <div class="box">
-  <p>
-  In saying that, a one-measure fits-all approach won't do the trick with regards to content promoting. Rather, an emphasis on making remarkable, high caliber and totally genuine content that is engaging, helpful and fascinating for customers will get you the crown. From content, video and symbolism to infographics, studies, online courses and podcasts, whatever your favored content medium is, guarantee it is shareable and pertinent to your industry.
-  </p>
+Yes. If there was a scale for furries ranging from small to medium to large, I would probably be a medium furry. Let me explain: 
+Socially wise I do engage with the fandom. Especially in the art corner of the fandom: I like to make art for people within the fandom, I follow other furry artists who are big inspirations for me and I made a bunch of friends within the fandom.
+Fiscally wise I engage a bit less with the fandom. This is mainly because most big furry conventions take place in the VS and I don’t have the possibility yet to fly over there. I am aware that there are big conventions in Europe as well but I would like to have a bit more travel experience before I start that adventure. Sometimes I suit at Dutch fantasy/cosplay conventions/festivals such as Elfia and Castlefest. But those do not count as furry conventions. More often so I cosplay at those conventions/festivals. 
+Even artwise my interests aren’t only focused on the furryfandom. I follow some comic artists, a lot of artists with ‘human’ art and even some artists who make more classical art. 
+Overall my main hobby stays writing/creating and the furry & cosplay fandoms just so happen to fit well with that.
 </div>
 
 <span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
