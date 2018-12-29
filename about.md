@@ -72,5 +72,3 @@ Fiscally wise I engage a bit less with the fandom. This is mainly because most b
 Even artwise my interests aren’t only focused on the furryfandom. I follow some comic artists, a lot of artists with ‘human’ art and even some artists who make more classical art.<br><br>
 Overall my main hobby stays writing/creating and the furry & cosplay fandoms just so happen to fit well with that.
 </div>
-
-<hr />
