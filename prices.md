@@ -59,7 +59,7 @@ Coming summer 2019…
 
 <dl>
 	<dt>Nuke stickers: </dt>
-	<dd>This is the sticker version of my traditional art piece ‘Nuke Fox’ which I made in september 2018. These stickers come in H 14 cm by W 10 cm sized squares. You can cut around the flowers and follow the shapes of the art piece if you don’t want your sticker to be pure square. You can order as many stickers at once as you like. Just be aware that the more your package weighs the more shipping costs will be added.<br><br>{% include gallery_pricing_traditional_headshot_sketches.html %}<br><br>Price:  €5 each.<br><br></dd>
+	<dd>This is the sticker version of my traditional art piece ‘Nuke Fox’ which I made in september 2018. These stickers come in H 14 cm by W 10 cm sized squares. You can cut around the flowers and follow the shapes of the art piece if you don’t want your sticker to be pure square. You can order as many stickers at once as you like. Just be aware that the more your package weighs the more shipping costs will be added.<br><br>Price:  €5 each.<br><br></dd>
 </dl>
 
 <hr />
