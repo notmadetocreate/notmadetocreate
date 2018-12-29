@@ -7,21 +7,34 @@ sitemap:
     lastmod: 2018-07-22
     changefreq: weekly
 ---
-## About our Site
+## Frequently asked questions (and answers!)
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
+### 
+<blockquote>Here is where you would generally insert a life-changing, Instagram worthy quote that will make all your friends jealous of your smartness.</blockquote>
 
-Making steady content and conveying it well takes a great deal of research and, hence, time and exertion. Building a profound established comprehension of your target customer needs is critical as your principle objective ought to be to fulfill their requirements as awesome content. You should need to enhance their lives. Having significant content like this may not be simple by any methods. Be that as it may, in any case, it's a fundamental apparatus in the event that you expect to grow a fruitful and supportable business in the present web focused world.
+### Where can I find you? <br>
+<blockquote>I am mostly active on instagram. My instagram is @dax_fox_. Other than that all important information is listed on this website.</blockquote><br><br>
+    
+### Where can I contact you? <br>
+<blockquote>You can contact me by emailing me. My email is Dorianfox@outlook.com, there is also a contact form at the bottom of every page. Make sure to put NMTC in the title of your email!</blockquote><br><br>
+    
+### Do you have a Patreon? <br>
+<blockquote>No I don’t have a Patreon. But I do have a Ko-Fi. My Ko-Fi page is… Empty for now.</blockquote><br><br>
 
-Receiving the benefits of content is a certain something. Be that as it may, it's so substantially less demanding once you begin conveying all the more successfully. The profitable content thought isn't just about bragging your item's capacities and general worth or your organization's achievements. You should concentrate less on advertising how awesome your item is and rather concentrate on indicating how valuable it is. This is a client focused approach as it concentrates on their issues and your answer for them. Making yourself fundamental is critical.
+### What do I do if I want something that’s not listed? <br>
+<blockquote>If you would like a specific type of commission that isn’t listed or if you would like to combine two commission types, you can email me about it and then we will discuss whether or not your desired type of commission is possible or not.</blockquote><br><br>
 
-### Content is Imortant
-<div class="box">
-  <p>
-  In saying that, a one-measure fits-all approach won't do the trick with regards to content promoting. Rather, an emphasis on making remarkable, high caliber and totally genuine content that is engaging, helpful and fascinating for customers will get you the crown. From content, video and symbolism to infographics, studies, online courses and podcasts, whatever your favored content medium is, guarantee it is shareable and pertinent to your industry.
-  </p>
-</div>
+### Do you work with deadlines/rush orders? <br>
+<blockquote>No I <b>do not work</b> with deadlines or rush orders.</blockquote><br><br>
 
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
+### Do you only make traditional art? <br>
+<blockquote>For now I do only make traditional art. I would like to be able to open for digital commissions in summer 2019.</blockquote><br><br>
 
-On social media, we may share our own thoughts and advance our image notwithstanding spreading musings for different associations and affiliations. With such a critical number of associations with people and relationship on social media, our experience can be over-burden with a considerable measure of information.
+### Do you only make headshot badges? <br>
+<blockquote>For a big part I do only make headshot badges. I hope to be able to take different types of commissions in the future but I will have to practice more before that becomes a possibility.</blockquote><br><br>
+
+### Would you ever consider taking fursuit commissions? <br>
+<blockquote>Even if I would practise long enough to be able to start taking fursuit commissions I wouldn't. I would only take commissions from close friends. But I would never start a fursuitmaking business.</blockquote><br><br>
+
+### Do you do Art Trades? <br>
+<blockquote>I do, but not on here. If you would like to trade with me I recommend you check out my Instagram or DeviantArt to see if I am open for art trades at the moment. <ul class="icons alt"><li><a href="https://www.instagram.com/dax_fox_/" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li><li><a href="https://www.deviantart.com/rainbowburrito" class="icon alt fa-dribbble"><span class="label">DeviantArt</span></a></li></ul></blockquote><br><br>
