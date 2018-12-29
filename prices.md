@@ -84,7 +84,7 @@ Coming in spring 2019…
 				<td>€10,-</td>
 			</tr>
 			<tr>
-				<td>Traditional headshot badge/td>
+				<td>Traditional headshot badge</td>
 				<td>€15,-</td>
 			</tr>
 			<tr>
@@ -130,3 +130,7 @@ Coming in spring 2019…
 			<tr>
 				<td>Nuke sticker</td>
 				<td>€5,-</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
