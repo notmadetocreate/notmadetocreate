@@ -35,7 +35,7 @@ A <a href="#pricetable">table</a> with my pricing is presented at the bottom of 
 	<dt>Lined traditional headshot sketch: </dt>
 	<dd>This type of commission is a lined sketch mainly showing the head of your fursona/character. You may choose weather or not you would like this lined headshot sketch to be laminated or not. Please keep in mind that laminating the lined headshot sketch will add a extra small fee to your commission. These sketches are made with pencils and fineliners. Each lined headshot sketch will be shipped out and laminated if stated so by the client. <br><br>Price: €5 <br><br>Price (laminated): €7<br><br></dd>
 	<dt>Traditional headshot sketches:</dt>
-	<dd>This type of commission consists of three sketches, all mainly showing the head of your fursona/character. These sketches are made with pencil. They won’t be laminated. They will get shipped out. <br><br>Price: €4<br><br></dd>
+	<dd>This type of commission consists of three sketches, all mainly showing the head of your fursona/character. These sketches are made with pencil. They won’t be laminated. They will get shipped out.<br><br>{% include gallery_pricing_traditional_headshot_sketches.html %}<br><br>Price: €4<br><br></dd>
 	<dt>Painted headshot commission I: </dt>
 	<dd>This type of commission is a A4 with a painted headshot of your fursona/character on it. These headshots won’t be laminated. They can get a background on the back of the A4 but please be aware that this may add to the shipping costs due to extra stamps because of extra weight. These headshots are made with acrylic paint. Each painted headshot will be shipped out. <br><br>Price: €15<br><br></dd>
 	<dt>Painted headshot commission II: </dt>
