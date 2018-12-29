@@ -66,10 +66,10 @@ My other social medias are:
 
 ### Are you a furry?:
 <div class="box">
-Yes. If there was a scale for furries ranging from small to medium to large, I would probably be a medium furry. Let me explain: 
-Socially wise I do engage with the fandom. Especially in the art corner of the fandom: I like to make art for people within the fandom, I follow other furry artists who are big inspirations for me and I made a bunch of friends within the fandom.<br>
-Fiscally wise I engage a bit less with the fandom. This is mainly because most big furry conventions take place in the VS and I don’t have the possibility yet to fly over there. I am aware that there are big conventions in Europe as well but I would like to have a bit more travel experience before I start that adventure. Sometimes I suit at Dutch fantasy/cosplay conventions/festivals such as Elfia and Castlefest. But those do not count as furry conventions. More often so I cosplay at those conventions/festivals.<br>
-Even artwise my interests aren’t only focused on the furryfandom. I follow some comic artists, a lot of artists with ‘human’ art and even some artists who make more classical art.<br>
+Yes. If there was a scale for furries ranging from small to medium to large, I would probably be a medium furry. Let me explain:<br><br>
+Socially wise I do engage with the fandom. Especially in the art corner of the fandom: I like to make art for people within the fandom, I follow other furry artists who are big inspirations for me and I made a bunch of friends within the fandom.<br><br>
+Fiscally wise I engage a bit less with the fandom. This is mainly because most big furry conventions take place in the VS and I don’t have the possibility yet to fly over there. I am aware that there are big conventions in Europe as well but I would like to have a bit more travel experience before I start that adventure. Sometimes I suit at Dutch fantasy/cosplay conventions/festivals such as Elfia and Castlefest. But those do not count as furry conventions. More often so I cosplay at those conventions/festivals.<br><br>
+Even artwise my interests aren’t only focused on the furryfandom. I follow some comic artists, a lot of artists with ‘human’ art and even some artists who make more classical art.<br><br>
 Overall my main hobby stays writing/creating and the furry & cosplay fandoms just so happen to fit well with that.
 </div>
 
