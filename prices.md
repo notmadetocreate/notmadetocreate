@@ -81,12 +81,6 @@ A table with my pricing is presented here. More information can be found below.
 				<td>€4,-</td>
 			</tr>
 		</tbody>
-		<tfoot>
-			<tr>
-				<td colspan="2"></td>
-				<td>100.00</td>
-			</tr>
-		</tfoot>
 	</table>
 </div>
 
