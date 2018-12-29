@@ -26,6 +26,8 @@ I am an 21 year old guy from the Netherlands who likes to draw and create.
     <li>I like to write stories and to make character and story world designs. My goal is to start making graphic novels or comic books one day. I probably won’t post much about it on here at first since I don’t have a story that’s so solidified and free of plot holes that I would feel confident enough to share it with the internet.</li>
 </ul>
 
+<hr />
+
 ### On which platform am I the most active as if right now?:
 I am the most active on Instagram. My instagram is <a href="https://www.instagram.com/dax_fox_/">@dax_fox_</a><br>
 My other social medias are:
@@ -35,6 +37,8 @@ My other social medias are:
     <li>Furryamino: - </li>
     <li>Email: <a href="mailto:dorianfox@outlook.com">Dorianfox@outlook.com</a></li>
 </ul>
+
+<hr />
 
 ### What tools do you use?:
 <b>Traditional Art:</b>
@@ -58,15 +62,15 @@ My other social medias are:
 	<li>Adobe illustrator.</li>
 </ul>
 
+<hr />
+
 ### Are you a furry?:
 <div class="box">
 Yes. If there was a scale for furries ranging from small to medium to large, I would probably be a medium furry. Let me explain: 
-Socially wise I do engage with the fandom. Especially in the art corner of the fandom: I like to make art for people within the fandom, I follow other furry artists who are big inspirations for me and I made a bunch of friends within the fandom.
-Fiscally wise I engage a bit less with the fandom. This is mainly because most big furry conventions take place in the VS and I don’t have the possibility yet to fly over there. I am aware that there are big conventions in Europe as well but I would like to have a bit more travel experience before I start that adventure. Sometimes I suit at Dutch fantasy/cosplay conventions/festivals such as Elfia and Castlefest. But those do not count as furry conventions. More often so I cosplay at those conventions/festivals. 
-Even artwise my interests aren’t only focused on the furryfandom. I follow some comic artists, a lot of artists with ‘human’ art and even some artists who make more classical art. 
+Socially wise I do engage with the fandom. Especially in the art corner of the fandom: I like to make art for people within the fandom, I follow other furry artists who are big inspirations for me and I made a bunch of friends within the fandom.<br>
+Fiscally wise I engage a bit less with the fandom. This is mainly because most big furry conventions take place in the VS and I don’t have the possibility yet to fly over there. I am aware that there are big conventions in Europe as well but I would like to have a bit more travel experience before I start that adventure. Sometimes I suit at Dutch fantasy/cosplay conventions/festivals such as Elfia and Castlefest. But those do not count as furry conventions. More often so I cosplay at those conventions/festivals.<br>
+Even artwise my interests aren’t only focused on the furryfandom. I follow some comic artists, a lot of artists with ‘human’ art and even some artists who make more classical art.<br>
 Overall my main hobby stays writing/creating and the furry & cosplay fandoms just so happen to fit well with that.
 </div>
 
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
-
-On social media, we may share our own thoughts and advance our image notwithstanding spreading musings for different associations and affiliations. With such a critical number of associations with people and relationship on social media, our experience can be over-burden with a considerable measure of information.
+<hr />
