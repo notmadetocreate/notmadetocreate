@@ -130,8 +130,3 @@ Coming in spring 2019…
 			<tr>
 				<td>Nuke sticker</td>
 				<td>€5,-</td>
-<!----- KAKZOOI
-			</tr>
-		</tbody>
-	</table>
-</div>
