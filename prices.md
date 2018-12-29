@@ -13,7 +13,7 @@ sitemap:
 <ol>
 	<li>Read the TOS.</li>
 	<li>Pick the type of commission that you would like to get.</li>
-	<li>Contact me through email at Dorianfox@outlook.com. Make sure to put ‘NMTC’ commission in the title.</li>
+	<li>Contact me through email at <a href="mailto:Dorianfox@outlook.com">Dorianfox@outlook.com</a>. Make sure to put ‘NMTC’ commission in the title.</li>
 	<li>We will discuss the details of the commission through the mail.</li>
 </ol>
 
@@ -23,64 +23,66 @@ On this page the following abbreviations are used for size: <b>H = height</b> , 
 
 A table with my pricing is presented here. More information can be found below.
 
-<table class="alt">
-	<thead>
-		<tr>
-			<th>Name</th>
-			<th>Price</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>Traditional headshot badge (small)</td>
-			<td>€10,-</td>
-		</tr>
-		<tr>
-			<td>Traditional headshot badge/td>
-			<td>€15,-</td>
-		</tr>
-		<tr>
-			<td>Bowtie badge</td>
-			<td>€12,-</td>
-		</tr>
-		<tr>
-			<td>Royal fluff badge</td>
-			<td>€15,-</td>
-		</tr>
-		<tr>
-			<td>Lined traditional headshot sketch</td>
-			<td>€5,-</td>
-		</tr>
-		<tr>
-			<td>Lined traditional headshot sketch (laminated)</td>
-			<td>€7,-</td>
-		</tr>
-		<tr>
-			<td>Traditional headshot sketches</td>
-			<td>€4,-</td>
-		</tr>
-		<tr>
-			<td>Painted headshot commission I</td>
-			<td>€15,-</td>
-		</tr>
-		<tr>
-			<td>Painted headshot commission II</td>
-			<td>€20,-</td>
-		</tr>
-		<tr>
-			<td>Poster commission</td>
-			<td>€20,-</td>
-		</tr>
-		<tr>
-			<td>Experimental bust-up commission</td>
-			<td>€12,-</td>
-		</tr>
-		<tr>
-			<td>Tailpack commission</td>
-			<td>€4,-</td>
-		</tr>
-	</tbody>
-</table>
+<div class="table-wrapper">
+	<table class="alt">
+		<thead>
+			<tr>
+				<th>Name</th>
+				<th>Price</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Traditional headshot badge (small)</td>
+				<td>€10,-</td>
+			</tr>
+			<tr>
+				<td>Traditional headshot badge/td>
+				<td>€15,-</td>
+			</tr>
+			<tr>
+				<td>Bowtie badge</td>
+				<td>€12,-</td>
+			</tr>
+			<tr>
+				<td>Royal fluff badge</td>
+				<td>€15,-</td>
+			</tr>
+			<tr>
+				<td>Lined traditional headshot sketch</td>
+				<td>€5,-</td>
+			</tr>
+			<tr>
+				<td>Lined traditional headshot sketch (laminated)</td>
+				<td>€7,-</td>
+			</tr>
+			<tr>
+				<td>Traditional headshot sketches</td>
+				<td>€4,-</td>
+			</tr>
+			<tr>
+				<td>Painted headshot commission I</td>
+				<td>€15,-</td>
+			</tr>
+			<tr>
+				<td>Painted headshot commission II</td>
+				<td>€20,-</td>
+			</tr>
+			<tr>
+				<td>Poster commission</td>
+				<td>€20,-</td>
+			</tr>
+			<tr>
+				<td>Experimental bust-up commission</td>
+				<td>€12,-</td>
+			</tr>
+			<tr>
+				<td>Tailpack commission</td>
+				<td>€4,-</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
 
 <hr />
 
